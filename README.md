@@ -16,7 +16,7 @@ Document RAG Assistant is a web application that enables you to have intelligent
 
 ## 🌐 Live Demo
 
-Try it out here: [Document RAG Assistant Live Demo](https://document-rag-system.streamlit.app)
+Try it out here: [Document RAG Assistant Live Demo]()
 
 ## ✨ Features
 
